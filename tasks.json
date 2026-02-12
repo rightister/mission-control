@@ -31,7 +31,7 @@
       "id": "mc-003",
       "title": "测试新任务自动执行",
       "description": "这是一个测试任务，用于验证 Mission Control 的完整流程是否正常工作。\n\nAI 应该：\n1. 检测到任务状态变为 in_progress\n2. 完成子任务\n3. 将任务移到 review",
-      "status": "backlog",
+      "status": "in_progress",
       "subtasks": [
         { "id": "mc-003-001", "title": "读取任务描述和子任务", "done": false },
         { "id": "mc-003-002", "title": "完成所有子任务", "done": false },
